@@ -6,6 +6,7 @@ namespace nie_wiem
     {
         static void Main(string[] args)
         {
+            //test komentarz
 
             Console.WriteLine("podaj pierwszą liczb");
             int a = Convert.ToInt32(Console.ReadLine());
